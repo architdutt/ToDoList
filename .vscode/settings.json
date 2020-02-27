@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/aa34f493-3585-4c9d-83ec-20985b630919/resourceGroups/TodoList/providers/Microsoft.Web/sites/ToDoListReactApp",
+    "appService.deploySubpath": "ToDoList-master\\build"
+}
